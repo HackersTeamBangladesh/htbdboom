@@ -163,3 +163,14 @@ Screenshots:
 ![Screenshot_2021-11-05-07-36-43-417_com termux](https://user-images.githubusercontent.com/93748209/140448084-a8dcc0dd-ff12-4b63-9217-23474e2a4936.jpg)
 
 
+
+
+## Telegram Channel
+
+* `Join the Official Telegram channel of XLR8`
+
+* `All updates of Xlr8 will be posted here !`
+
+<a href="https://t.me/cyber_security_team1">
+
+         <img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png">
