@@ -5,6 +5,15 @@ I will not be responsible for any misuse.
 
 
 
+
+
+
+
+
+
+
+
+
 Tested On:
 ----------------------------------------------------
 
@@ -17,9 +26,30 @@ Tested On:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 Features:
 ----------------------------------------------------
 Phone Number Sms Booming/Spam
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -28,6 +58,20 @@ Note:
 
 
 This bomber only works in India !!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -61,6 +105,18 @@ $git clone https://github.com/HackersTeamBangladesh/htbdboom
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 Usage:
 --------------------------------------------------
 $ls
@@ -70,6 +126,18 @@ $cd htbdboom
 $ls
 
 $python htbdboom.py
+
+Security Password: 19170
+
+
+
+
+
+
+
+
+
+
 
 
 
