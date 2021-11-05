@@ -173,4 +173,4 @@ Screenshots:
 
 <a href="https://t.me/cyber_security_team1">
 
-         <img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png">
+         <img src="https://drive.google.com/file/d/1AS-92hiBKNIGJuIn58PzTHX5Q4mvdCcl/view?usp=drivesdk">
