@@ -173,4 +173,8 @@ Screenshots:
 
 <a href="https://t.me/cyber_security_team1">
 
-         <img src="68747470733a2f2f736d61727469626c6f67737465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30332f736d61727469626c6f67737465722d69626c6f67737465722d6a6f696e2d74656c656772616d2d6368616e6e656c2e706e67.png">
+         Telegram
+
+<a href="https://www.facebook.com/CyberTeam1917/">
+
+     Facebook Page
