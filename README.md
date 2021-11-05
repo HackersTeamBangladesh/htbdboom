@@ -17,12 +17,12 @@ I will not be responsible for any misuse.
 Tested On:
 ----------------------------------------------------
 
-.Kali Linux
-.Termux
-.Ubuntu
-.Parrot Sec OS
-.Kali nethunter
-.Alpine linux
+* Kali Linux
+* Termux
+* Ubuntu
+* Parrot Sec OS
+* Kali nethunter
+* Alpine linux
 
 
 
