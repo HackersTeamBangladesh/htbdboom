@@ -5,6 +5,29 @@ I will not be responsible for any misuse.
 
 
 
+Tested On:
+----------------------------------------------------
+
+.Kali Linux
+.Termux
+.Ubuntu
+.Parrot Sec OS
+.Kali nethunter
+.Alpine linux
+
+
+
+Features:
+----------------------------------------------------
+Phone Number Sms Booming/Spam
+
+
+
+Note:
+----------------------------------------------------
+
+
+This bomber only works in India !!
 
 
 
@@ -30,6 +53,16 @@ $pkg install python
 
 $git clone https://github.com/HackersTeamBangladesh/htbdboom
 
+
+
+
+
+
+
+
+
+Usage:
+--------------------------------------------------
 $ls
 
 $cd htbdboom
@@ -37,4 +70,16 @@ $cd htbdboom
 $ls
 
 $python htbdboom.py
+
+
+
+
+
+
+
+
+
+Screenshots:
+---------------------------------------------------
+
 
